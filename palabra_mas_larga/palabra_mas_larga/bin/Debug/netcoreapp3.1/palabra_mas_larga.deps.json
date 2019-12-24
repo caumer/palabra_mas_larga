@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "palabra_mas_larga/1.0.0": {
+        "runtime": {
+          "palabra_mas_larga.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "palabra_mas_larga/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

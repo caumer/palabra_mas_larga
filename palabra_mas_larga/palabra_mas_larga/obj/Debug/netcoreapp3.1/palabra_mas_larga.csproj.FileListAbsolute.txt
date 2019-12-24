@@ -1,0 +1,11 @@
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\bin\Debug\netcoreapp3.1\palabra_mas_larga.exe
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\bin\Debug\netcoreapp3.1\palabra_mas_larga.deps.json
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\bin\Debug\netcoreapp3.1\palabra_mas_larga.runtimeconfig.json
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\bin\Debug\netcoreapp3.1\palabra_mas_larga.runtimeconfig.dev.json
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\bin\Debug\netcoreapp3.1\palabra_mas_larga.dll
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\bin\Debug\netcoreapp3.1\palabra_mas_larga.pdb
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\obj\Debug\netcoreapp3.1\palabra_mas_larga.csprojAssemblyReference.cache
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\obj\Debug\netcoreapp3.1\palabra_mas_larga.AssemblyInfoInputs.cache
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\obj\Debug\netcoreapp3.1\palabra_mas_larga.AssemblyInfo.cs
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\obj\Debug\netcoreapp3.1\palabra_mas_larga.dll
+C:\Users\SISTEMAS\source\repos\palabra_mas_larga\palabra_mas_larga\obj\Debug\netcoreapp3.1\palabra_mas_larga.pdb
